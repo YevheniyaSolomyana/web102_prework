@@ -26,6 +26,8 @@ Here's a walkthrough of implemented features:
 
 <img src='VideoWalkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='VideoWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='VideoWalkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='VideoWalkthrough4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
@@ -37,6 +39,8 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+No challenges! Everything went pretty smoothly. Sometimes I needed a refresher on certain things and the additional resources helped a lot.
 
 ## License
 
