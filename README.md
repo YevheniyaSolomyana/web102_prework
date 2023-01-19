@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='VideoWalkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='VideoWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='VideoWalkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='VideoWalkthrough4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/VideoWalkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/VideoWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/VideoWalkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/VideoWalkthrough4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
