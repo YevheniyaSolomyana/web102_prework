@@ -19,8 +19,31 @@ body {
     margin-top: -10px;
 }
 
+.header a {
+    margin-left: auto;
+    text-decoration: none;
+    color: black;
+    border: none;
+    background-color: #FFFFFF;
+    padding: 1%;
+    width: 100px;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.header a:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px black;
+}
+
 .stats-container {
     display: flex;
+    align-items: baseline;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +95,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
